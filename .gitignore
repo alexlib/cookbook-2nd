@@ -3,4 +3,4 @@ output
 *.pid
 __pycache__
 content
-
+uv.lock
